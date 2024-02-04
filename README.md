@@ -1,5 +1,5 @@
 # HR-Analytics-Dashboard-using-Excel
-
+A dashboard is created using a data set which basically highlights the attrition in an organisation. It shows how the layoff is based on different sub categories such as department, gender, education level, experience of the employee. It involves usage of various tools present in MS-Excel such as pivot tables, different types of charts available to represent data,use of slicers to filter out data according to viewer's suitability.
 ![Screenshot (8)](https://github.com/aman44478/HR-Analytics-Dashboard-using-Excel/assets/143328397/7bada2ac-74e4-42f4-a73c-d99858d65845)
 **Insights**
 1) The job attritionn rate in the organisation stands at around **16%**.
